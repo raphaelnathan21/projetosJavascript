@@ -37,3 +37,19 @@
     border-radius: 5px;
 }
 
+.btn {
+    background: rgb(0, 0, 78);
+    color: white;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: rgb(28, 0, 131);
+    border: 2px solid white;
+}
+
